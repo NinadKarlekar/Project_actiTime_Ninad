@@ -3,8 +3,8 @@ Project on actitime automation
 # This project is not completed yet
 
 # Index
-1.  [Prerequisite()](#prerequisite)
-
+1.  [Prerequisite](#prerequisite)
+2.  [Steps to run project](#stepstorun)
 
 
 *************************************************
@@ -16,7 +16,6 @@ Project on actitime automation
 4.  [ChromeDriver](#chromedriver)
 5.  [DataDrivenFramework](#datadrivenframework)
 6.  [TestNG](#testng)
-4.  []()
 
 
 **********************
@@ -44,10 +43,12 @@ To download Eclipse <a href="https://www.eclipse.org/downloads/">click here</a>
 
 ## ChromeDriver
 
-To download ChromeDriver <a href="https://chromedriver.chromium.org/">click here</a> and click on latest stable version
+1. To download ChromeDriver <a href="https://chromedriver.chromium.org/">click here</a> and click on latest stable version
 
 ![](actiTime/GitImages/README_SS/SS_ChromeDriverDownload.png)
 
+2. After downloading create a folder in java project named as **"driver"**.
+3. Copy-Paste chromedriver.exe file in **"driver"** folder.
 ******************************************************
 
 ## DataDrivenFramework
@@ -77,7 +78,7 @@ To download ChromeDriver <a href="https://chromedriver.chromium.org/">click here
 
 ![SS_BuildPath](actiTime/GitImages/README_SS/POM/SS_BuildPath.jpg)
 
-7. Create folder called `data` in java project and copy-paste excel sheet.
+7. Create folder called **`data`** in java project and copy-paste excel sheet.
 
 ![SS_DATAExcel](actiTime/GitImages/README_SS/POM/SS_DATAExcel.jpg)
 
@@ -96,7 +97,7 @@ To download ChromeDriver <a href="https://chromedriver.chromium.org/">click here
 ## TestNG_Installation
 Steps:-
 1. Open Eclipse and create java project
-2. Go to Help -> Eclipse marketplace
+2. Go to **Help** -> **Eclipse marketplace**
 
     ![](actiTime/GitImages/README_SS/TestNG/SS_Help_Marketplace.jpg)
 
@@ -147,3 +148,25 @@ https://testng.org/testng-eclipse-update-site
 *************************************************
 ************************************
 *********************************
+
+# StepsToRun
+
+1. Download and open project in **Eclipse**.
+2. Go to **actitime** project -> **src** -> Right click on **actitime_testscripts** -> **TextNG** -> **Convert to TestNG**
+
+    ![convertToTestNG](actiTime/GitImages/README_SS/Steps/convertToTestNG.png)
+
+3. Enter Suite name & Test name -> click on finish.
+4. Right click on newly generated **.xml** file -> **Run as** -> **TestNG Suite**.
+
+    ![](actiTime/GitImages/README_SS/Steps/Run%20as.png)
+
+5. If you want to change Order of Execution of programs then, Right click on **.xml** file -> Open with -> **Text editor**
+6. Change the order of execution in .xml file (Changes should be in between `<classes>` & `</classes>` only)
+
+    ![](actiTime/GitImages/README_SS/Steps/XML.png)
+
+
+-------------------------------------------------
+----------------------------------------------
+------------------------------------------------
