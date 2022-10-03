@@ -3,7 +3,7 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="actiTime_testscripts.Task_001_driver">
+      <class name="actiTime_testscripts.Task_002_driver">
         <methods>
           <include name="login"/>
           <include name="openBrowser"/>
@@ -11,7 +11,7 @@
           <include name="closeBrowser"/>
           <include name="logout"/>
         </methods>
-      </class> <!-- actiTime_testscripts.Task_001_driver -->
+      </class> <!-- actiTime_testscripts.Task_002_driver -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
