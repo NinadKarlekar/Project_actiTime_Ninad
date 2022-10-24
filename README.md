@@ -5,6 +5,7 @@ Project on actitime automation
 # Index
 1.  [Prerequisite](#prerequisite)
 2.  [Steps to run project](#stepstorun)
+3.  [Test cases and Output(video)](#outputs)
 
 
 *************************************************
@@ -173,8 +174,99 @@ https://testng.org/testng-eclipse-update-site
 
 # Outputs
 
+<details>
+<summary> <b>Tasks</b> </summary>
 
-https://user-images.githubusercontent.com/88243315/197594694-76226355-d375-4461-bae7-c757b652f6fc.mp4
+<!-- *    <details>
+     <summary>Task 001</summary>
+
+     ````md  
+        Task 001
+
+        1.Launch the browser
+        2.Enter the url
+        3.Enter username
+        4.Enter the password
+        5.Click on 'Tasks' in Menu bar
+        6.Click on '+ Add New' in Tasks
+        7.Click on 'New Task' in '+ Add New' drop down list
+        8.Click on 'Select Customer' drop down under 'Details' in Create New Task page (1st Dropdown)
+        9.Click on 'any customer' from drop down in Create New Task page
+        10.Click on 'Select Project' drop down under 'Details' in Create New Task page (2nd Dropdown)
+        11.Click on 'any project' from drop down in Create New Task page
+        12.Click on 'Enter Task Name' text field in in Create New Task page
+        13.Enter task name in 'Enter Task Name' text field in Create New Task page
+        15.Click on 'Estimate' text field in Create New Task page
+        16.Click on 'Deadline' text field in Create New Task page
+        17.Click on Checkbox in Create New Task page
+        18.'Click on '+ Create Task 'button.in Create New Project page
+     ````
+
+     https://user-images.githubusercontent.com/88243315/197594694-76226355-d375-4461-bae7-c757b652f6fc.mp4
+     </details>
+
+
+*    <details>
+     <summary>Task 002</summary>
+
+     ````md  
+        Task 002
+
+        1.Launch the browser
+        2.Enter the url
+        3.Enter username
+        4.Enter the password
+        5.Click on 'Tasks' in Menu bar
+        6.Click on '+ Add New' in Tasks
+        7.Click on 'New Task' in '+ Add New' drop down list
+        8.Click on 'Select Customer' drop down under 'Details' in Create New Task page (1st Dropdown)
+        9.Click on 'any customer' from drop down in Create New Task page
+        10.Click on 'Select Project' drop down under 'Details' in Create New Task page (2nd Dropdown)
+        11.Click on 'any project' from drop down in Create New Task page
+        12.Click on 'Enter Task Name' text field in in Create New Task page
+        13.Enter task name in 'Enter Task Name' text field in Create New Task page
+        15.Click on 'Estimate' text field in Create New Task page
+        16.Click on 'Deadline' text field in Create New Task page
+        17.Click on Checkbox in Create New Task page
+        18.'Click on '+ Create Task 'button.in Create New Project page
+     ````
+
+     https://user-images.githubusercontent.com/88243315/197594694-76226355-d375-4461-bae7-c757b652f6fc.mp4
+     </details> -->
+
+
+
+*    <details>
+     <summary>Task 003</summary>
+
+     ````md  
+        Task 003
+
+        1.Launch the browser
+        2.Enter the url
+        3.Enter username
+        4.Enter the password
+        5.Click on 'Tasks' in Menu bar
+        6.Click on '+ Add New' in Tasks
+        7.Click on 'New Task' in '+ Add New' drop down list
+        8.Click on 'Select Customer' drop down under 'Details' in Create New Task page (1st Dropdown)
+        9.Click on 'any customer' from drop down in Create New Task page
+        10.Click on 'Select Project' drop down under 'Details' in Create New Task page (2nd Dropdown)
+        11.Click on 'any project' from drop down in Create New Task page
+        12.Click on 'Enter Task Name' text field in in Create New Task page
+        13.Enter task name in 'Enter Task Name' text field in Create New Task page
+        15.Click on 'Estimate' text field in Create New Task page
+        16.Click on 'Deadline' text field in Create New Task page
+        17.Click on Checkbox in Create New Task page
+        18.'Click on '+ Create Task 'button.in Create New Project page
+     ````
+
+     https://user-images.githubusercontent.com/88243315/197594694-76226355-d375-4461-bae7-c757b652f6fc.mp4
+     </details>
+
+
+</details>
+
 
 
 
