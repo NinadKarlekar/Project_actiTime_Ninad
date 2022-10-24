@@ -173,4 +173,3 @@ https://testng.org/testng-eclipse-update-site
 
 # Outputs
 
-[](actiTime/GitVideos/Tasks/Tasks_003_2022-10-24.mkv)
