@@ -237,12 +237,14 @@ https://testng.org/testng-eclipse-update-site
 
 
 *    <details>
-     <summary>Task 003</summary>
+     <summary>
+     - [X] Task 003
+     </summary>
 
      ````md
         Task 003
 
-        1. [X] Launch the browser
+        1.Launch the browser
         2.Enter the url
         3.Enter username
         4.Enter the password
