@@ -237,9 +237,7 @@ https://testng.org/testng-eclipse-update-site
 
 
 *    <details>
-     <summary>
-     - [X] Task 003
-     </summary>
+     <summary>Task 003</summary>
 
      ````md
         Task 003
