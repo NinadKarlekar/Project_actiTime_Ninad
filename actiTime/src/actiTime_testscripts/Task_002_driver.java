@@ -31,7 +31,7 @@ public class Task_002_driver extends BaseClass{
 		
 		actiTime_Generic.tasklist tasklist = new actiTime_Generic.tasklist(driver);
 		tasklist.clickaddNewCustomer();
-		tasklist.clicknewProject();
+		tasklist.clickNewProject();
 		Thread.sleep(3000);
 		
 		CreateNewProject CreateNewProject = new CreateNewProject(driver);

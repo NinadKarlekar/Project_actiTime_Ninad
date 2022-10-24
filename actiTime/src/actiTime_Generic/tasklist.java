@@ -33,10 +33,13 @@ public class tasklist {
 		newCustomerBtn.click();
 	}
 	
-	public void clicknewProject() {
+	public void clickNewProject() {
 		newProjectBtn.click();
 	}
 	
+	public void clickNewTask() {
+        newTasksBtn.click();
+    }
 	public void clickimportTasksfromCSV() {
 		importTasksfromCSVBtn.click();
 	}
