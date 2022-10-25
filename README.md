@@ -203,7 +203,7 @@ https://testng.org/testng-eclipse-update-site
      https://user-images.githubusercontent.com/88243315/197852067-fb41c3e7-96bf-4eb4-b628-f222bbf583ea.mp4     
      </details>
 
-<!-- 
+
 *    <details>
      <summary>Task 002</summary>
 
@@ -231,7 +231,7 @@ https://testng.org/testng-eclipse-update-site
 
 
      https://user-images.githubusercontent.com/88243315/197854944-a5cc530f-ee2f-4f2f-a3b8-f3783555f524.mp4     
-     </details> -->
+     </details>
 
 
 
