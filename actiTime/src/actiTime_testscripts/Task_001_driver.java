@@ -9,10 +9,10 @@ import org.testng.Reporter;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
-import actiTime.LoginLogoutPage;
 import actiTime_Generic.BaseClass;
 import actiTime_Generic.CreateNewCustomer;
 import actiTime_Generic.FileLib;
+
 
 @Listeners(actiTime_Generic.ListenerImplementation.class)
 
@@ -20,7 +20,6 @@ public class Task_001_driver extends BaseClass {
 	static {
 		System.setProperty("webdriver.chrome.driver", "./driver/chromedriver.exe");
 	}
-
 	@Test
 	public static void Task_001() throws FileNotFoundException, IOException, InterruptedException, AWTException {
 		Reporter.log("CreateCustomer", true);
