@@ -176,7 +176,7 @@ https://testng.org/testng-eclipse-update-site
 
 
 <details>
-<summary> <b>Tasks</b> </summary>
+<summary> <b>Tasks (Click to expand)</b> </summary>
 
 *    <details>
      <summary>Task 001</summary>
@@ -226,7 +226,7 @@ https://testng.org/testng-eclipse-update-site
         15.Click on 'Estimate' text field in Create New Task page
         16.Click on 'Deadline' text field in Create New Task page
         17.Click on Checkbox in Create New Task page
-        18.'Click on '+ Create Task 'button.in Create New Project page
+        18.'Click on '+ Create Task 'button in Create New Project page
      ````
 
 
