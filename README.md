@@ -178,7 +178,7 @@ https://testng.org/testng-eclipse-update-site
 <details>
 <summary> <b>Tasks</b> </summary>
 
-<!-- *    <details>
+*    <details>
      <summary>Task 001</summary>
 
      ````md  
@@ -190,23 +190,19 @@ https://testng.org/testng-eclipse-update-site
         4.Enter the password
         5.Click on 'Tasks' in Menu bar
         6.Click on '+ Add New' in Tasks
-        7.Click on 'New Task' in '+ Add New' drop down list
-        8.Click on 'Select Customer' drop down under 'Details' in Create New Task page (1st Dropdown)
-        9.Click on 'any customer' from drop down in Create New Task page
-        10.Click on 'Select Project' drop down under 'Details' in Create New Task page (2nd Dropdown)
-        11.Click on 'any project' from drop down in Create New Task page
-        12.Click on 'Enter Task Name' text field in in Create New Task page
-        13.Enter task name in 'Enter Task Name' text field in Create New Task page
-        15.Click on 'Estimate' text field in Create New Task page
-        16.Click on 'Deadline' text field in Create New Task page
-        17.Click on Checkbox in Create New Task page
-        18.'Click on '+ Create Task 'button.in Create New Project page
+        7.Click on 'New Customer' in '+ Add New' drop down list
+        8.Enter customer name under 'Details' in Create New Customer page
+        9.Click on 'Copy Projects from an Existing Customer:' drop downs.
+        10.Select any option from the 'Copy Projects from an Existing Customer:' drop down
+        11.Click on '+ Create Customer' button in Create New Customer page
+        12.Logout from actiTime
+        13.close Browser
      ````
 
-     https://user-images.githubusercontent.com/88243315/197594694-76226355-d375-4461-bae7-c757b652f6fc.mp4
+     
      </details>
 
-
+<!-- 
 *    <details>
      <summary>Task 002</summary>
 
