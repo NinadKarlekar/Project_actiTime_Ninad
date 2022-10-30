@@ -176,7 +176,7 @@ https://testng.org/testng-eclipse-update-site
 
 
 <details>
-<summary> <b>Tasks (Click to expand)</b> </summary>
+<summary> <b>Tasks (Click to expand 👆)</b> </summary>
 
 *    <details>
      <summary>Task 001</summary>
