@@ -1,6 +1,6 @@
 # Project_actiTime_Ninad
 Project on actitime automation
-# This project is not completed yet
+
 
 # Index
 1.  [Prerequisite](#prerequisite)
