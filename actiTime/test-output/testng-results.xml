@@ -8,7 +8,7 @@
       <![CDATA[login]]>
     </line>
     <line>
-      <![CDATA[CreateNewUser]]>
+      <![CDATA[CreateNewTask]]>
     </line>
     <line>
       <![CDATA[logout]]>
@@ -17,47 +17,47 @@
       <![CDATA[closeBrowser]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-10-29T23:09:35 IST" name="Default suite" finished-at="2022-10-29T23:10:16 IST" duration-ms="40932">
+  <suite started-at="2022-11-29T11:35:19 IST" name="Default suite" finished-at="2022-11-29T11:36:28 IST" duration-ms="68262">
     <groups>
     </groups>
-    <test started-at="2022-10-29T23:09:35 IST" name="Default test" finished-at="2022-10-29T23:10:16 IST" duration-ms="40932">
-      <class name="actiTime_testscripts.Users_001_driver">
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:actiTime_testscripts.Users_001_driver@7ed7259e]" started-at="2022-10-29T23:09:35 IST" name="openBrowser" finished-at="2022-10-29T23:09:38 IST" duration-ms="2859" status="PASS">
+    <test started-at="2022-11-29T11:35:19 IST" name="Default test" finished-at="2022-11-29T11:36:28 IST" duration-ms="68262">
+      <class name="actiTime_testscripts.Task_003_driver">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:actiTime_testscripts.Task_003_driver@7ed7259e]" started-at="2022-11-29T11:35:19 IST" name="openBrowser" finished-at="2022-11-29T11:35:21 IST" duration-ms="2006" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[openBrowser]]>
             </line>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method is-config="true" signature="login()[pri:0, instance:actiTime_testscripts.Users_001_driver@7ed7259e]" started-at="2022-10-29T23:09:38 IST" name="login" finished-at="2022-10-29T23:09:44 IST" duration-ms="6126" status="PASS">
+        <test-method is-config="true" signature="login()[pri:0, instance:actiTime_testscripts.Task_003_driver@7ed7259e]" started-at="2022-11-29T11:35:21 IST" name="login" finished-at="2022-11-29T11:35:27 IST" duration-ms="5900" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[login]]>
             </line>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="Task_001()[pri:0, instance:actiTime_testscripts.Users_001_driver@7ed7259e]" started-at="2022-10-29T23:09:44 IST" name="Task_001" finished-at="2022-10-29T23:10:10 IST" duration-ms="25950" status="PASS">
+        <test-method signature="Task_003()[pri:0, instance:actiTime_testscripts.Task_003_driver@7ed7259e]" started-at="2022-11-29T11:35:27 IST" name="Task_003" finished-at="2022-11-29T11:36:23 IST" duration-ms="55397" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[CreateNewUser]]>
+              <![CDATA[CreateNewTask]]>
             </line>
           </reporter-output>
-        </test-method> <!-- Task_001 -->
-        <test-method is-config="true" signature="logout()[pri:0, instance:actiTime_testscripts.Users_001_driver@7ed7259e]" started-at="2022-10-29T23:10:10 IST" name="logout" finished-at="2022-10-29T23:10:16 IST" duration-ms="5698" status="PASS">
+        </test-method> <!-- Task_003 -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:actiTime_testscripts.Task_003_driver@7ed7259e]" started-at="2022-11-29T11:36:23 IST" name="logout" finished-at="2022-11-29T11:36:27 IST" duration-ms="4761" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[logout]]>
             </line>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:actiTime_testscripts.Users_001_driver@7ed7259e]" started-at="2022-10-29T23:10:16 IST" name="closeBrowser" finished-at="2022-10-29T23:10:16 IST" duration-ms="249" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:actiTime_testscripts.Task_003_driver@7ed7259e]" started-at="2022-11-29T11:36:27 IST" name="closeBrowser" finished-at="2022-11-29T11:36:28 IST" duration-ms="165" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[closeBrowser]]>
             </line>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-      </class> <!-- actiTime_testscripts.Users_001_driver -->
+      </class> <!-- actiTime_testscripts.Task_003_driver -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
