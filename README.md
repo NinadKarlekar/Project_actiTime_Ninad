@@ -1,5 +1,5 @@
 # Project_actiTime_Ninad
-Project on actitime automation
+Project on actitime Automation Testing
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
