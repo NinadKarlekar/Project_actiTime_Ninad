@@ -4,9 +4,7 @@ Project on actitime Automation Testing using selenium
 
 
 ![GitHub](https://img.shields.io/github/stars/NinadKarlekar/Project_actiTime_Ninad?label=Stars)
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/NinadKarlekar/Project_actiTime_Ninad?logo=github)
-
 [![HitCount](http://hits.dwyl.com/NinadKarlekar/Practical_BscIT_MscIT_Ninad.svg)](http://hits.dwyl.com/NinadKarlekar/Project_actiTime_Ninad)
 
 
