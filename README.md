@@ -1,6 +1,18 @@
 # Project_actiTime_Ninad
 Project on actitime Automation Testing using selenium
 
+
+
+![GitHub](https://img.shields.io/github/stars/NinadKarlekar/Project_actiTime_Ninad?label=Stars)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/NinadKarlekar/Project_actiTime_Ninad?logo=github)
+
+[![HitCount](http://hits.dwyl.com/NinadKarlekar/Practical_BscIT_MscIT_Ninad.svg)](http://hits.dwyl.com/NinadKarlekar/Project_actiTime_Ninad)
+
+
+
+
+
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TestNG](https://img.shields.io/badge/testng%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
