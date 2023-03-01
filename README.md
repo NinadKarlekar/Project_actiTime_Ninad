@@ -50,7 +50,7 @@ To download Eclipse <a href="https://www.eclipse.org/downloads/">click here</a>
 1. To download Selenium <a href="https://www.selenium.dev/downloads/">click here</a> and click on latest stable version
 
 
-<img src="actiTime/GitImages/README_SS/TestNG/SS_SeleniumDownload.png" alt="SS_SeleniumDownload" width="500">
+<img src="actiTime/GitImages/README_SS/SS_SeleniumDownload.png" alt="SS_SeleniumDownload" width="500">
 
 2. After downloading create a folder in java project named as **"jar"**.
 3. Copy-Paste .jar file in **"jar"** folder.
@@ -63,7 +63,7 @@ To download Eclipse <a href="https://www.eclipse.org/downloads/">click here</a>
 1. To download ChromeDriver <a href="https://chromedriver.chromium.org/">click here</a> and click on latest stable version
 
 
-<img src="actiTime/GitImages/README_SS/TestNG/SS_ChromeDriverDownload.png" alt="SS_ChromeDriverDownload" width="500">
+<img src="actiTime/GitImages/README_SS/SS_ChromeDriverDownload.png" alt="SS_ChromeDriverDownload" width="500">
 
 
 2. After downloading create a folder in java project named as **"driver"**.
@@ -130,15 +130,18 @@ Steps:-
 1. Open Eclipse and create java project
 2. Go to **Help** -> **Eclipse marketplace**
 
-    ![](actiTime/GitImages/README_SS/TestNG/SS_Help_Marketplace.jpg)
+
+    <img src="actiTime/GitImages/README_SS/TestNG/SS_Help_Marketplace.jpg" alt="SS_Help_Marketplace" width="500">
+
 
 3. Type **testNG for eclipse** in searchbox and install.
 
-    ![](actiTime/GitImages/README_SS/TestNG/SS_testng_for_eclipse.jpg)
+    <img src="actiTime/GitImages/README_SS/TestNG/SS_testng_for_eclipse.jpg" alt="SS_testng_for_eclipse" width="500">
 
 4. During Midway of installation we get a popup. Click on install anyway and after installing restart eclipse.
 
-    ![](actiTime/GitImages/README_SS/TestNG/SS_InstallAnyway.jpg)
+
+    <img src="actiTime/GitImages/README_SS/TestNG/SS_InstallAnyway.jpg" alt="SS_InstallAnyway" width="500">
 
 -----------------
 **If this is not working try these steps:-**
@@ -148,10 +151,11 @@ Steps:-
 2. In popup click on add button. We get add repository popup.
 
 3. Type TestNG in **name** textfield and paste following link in **location** textfield
-    ![](actiTime/GitImages/README_SS/TestNG/SS_AddrepoLINK.jpg)
+
+    <img src="actiTime/GitImages/README_SS/TestNG/SS_AddrepoLINK.jpg" alt="SS_AddrepoLINK" width="500">
 
 ```
-https://testng.org/testng-eclipse-update-site
+    https://testng.org/testng-eclipse-update-site
 ```
 
 
@@ -159,7 +163,9 @@ https://testng.org/testng-eclipse-update-site
 
 5. During Midway of installation we get a popup. Click on install anyway and after installing restart eclipse.
 
-    ![](actiTime/GitImages/README_SS/TestNG/SS_InstallAnyway.jpg)
+
+    <img src="actiTime/GitImages/README_SS/TestNG/SS_InstallAnyway.jpg" alt="SS_InstallAnyway" width="500">
+
 
 
 ******************************
@@ -168,11 +174,13 @@ https://testng.org/testng-eclipse-update-site
 
 1. Right click on java project -> build path -> add libraries
 
-    ![](actiTime/GitImages/README_SS/TestNG/SS_AddLibraries.jpg)
+
+    <img src="actiTime/GitImages/README_SS/TestNG/SS_AddLibraries.jpg" alt="SS_AddLibraries" width="500">
 
 2. Select TestNG from popup click on next and finish.
 
-    ![](actiTime/GitImages/README_SS/TestNG/SS_TestNGPOPUP.jpg)
+
+    <img src="actiTime/GitImages/README_SS/TestNG/SS_TestNGPOPUP.jpg" alt="SS_TestNGPOPUP" width="500">
 
 3. By doing this the TestNG library is added into project.
 
