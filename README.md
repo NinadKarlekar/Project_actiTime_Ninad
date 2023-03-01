@@ -1,6 +1,6 @@
 # Project_actiTime_Ninad
-Project on actitime Automation Testing using selenium
 
+- Project on actitime Automation Testing using selenium
 
 
 ![GitHub](https://img.shields.io/github/stars/NinadKarlekar/Project_actiTime_Ninad?label=Stars)
@@ -170,17 +170,19 @@ https://testng.org/testng-eclipse-update-site
 1. Download and open project in **Eclipse**.
 2. Go to **actitime** project -> **src** -> Right click on **actitime_testscripts** -> **TextNG** -> **Convert to TestNG**
 
-    ![convertToTestNG](actiTime/GitImages/README_SS/Steps/convertToTestNG.png)
+    <img src="actiTime/GitImages/README_SS/Steps/convertToTestNG.png" alt="convertToTestNG" width="550">
+
 
 3. Enter Suite name & Test name -> click on finish.
 4. Right click on newly generated **.xml** file -> **Run as** -> **TestNG Suite**.
 
-    ![](actiTime/GitImages/README_SS/Steps/Run%20as.png)
+    <img src="actiTime/GitImages/README_SS/Steps/Run%20as.png" alt="runas" width="550">
 
 5. If you want to change Order of Execution of programs then, Right click on **.xml** file -> Open with -> **Text editor**
 6. Change the order of execution in .xml file (Changes should be in between `<classes>` & `</classes>` only)
 
-    ![](actiTime/GitImages/README_SS/Steps/XML.png)
+
+    <img src="actiTime/GitImages/README_SS/Steps/XML.png" alt="XML.png" width="550">
 
 
 -------------------------------------------------
