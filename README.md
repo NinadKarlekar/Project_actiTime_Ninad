@@ -49,7 +49,8 @@ To download Eclipse <a href="https://www.eclipse.org/downloads/">click here</a>
 ## Selenium
 1. To download Selenium <a href="https://www.selenium.dev/downloads/">click here</a> and click on latest stable version
 
-![](actiTime/GitImages/README_SS/SS_SeleniumDownload.png)
+
+<img src="actiTime/GitImages/README_SS/Steps/SS_SeleniumDownload.png" alt="SS_SeleniumDownload" width="500">
 
 2. After downloading create a folder in java project named as **"jar"**.
 3. Copy-Paste .jar file in **"jar"** folder.
@@ -61,7 +62,9 @@ To download Eclipse <a href="https://www.eclipse.org/downloads/">click here</a>
 
 1. To download ChromeDriver <a href="https://chromedriver.chromium.org/">click here</a> and click on latest stable version
 
-![](actiTime/GitImages/README_SS/SS_ChromeDriverDownload.png)
+
+<img src="actiTime/GitImages/README_SS/Steps/SS_ChromeDriverDownload.png" alt="SS_ChromeDriverDownload" width="500">
+
 
 2. After downloading create a folder in java project named as **"driver"**.
 3. Copy-Paste chromedriver.exe file in **"driver"** folder.
@@ -78,29 +81,41 @@ To download Eclipse <a href="https://www.eclipse.org/downloads/">click here</a>
 
 2. Under Binary distribution click on **`.zip`** link.
 
-![SS_BinaryDistribution](actiTime/GitImages/README_SS/POM/SS_BinaryDistribution.jpg)
+
+<img src="actiTime/GitImages/README_SS/POM/SS_BinaryDistribution.png" alt="SS_BinaryDistribution" width="500">
+
 
 3. Click on suggested link for download. The zip file gets downloaded automatically.
 
-![SS_SuggestedLink](actiTime/GitImages/README_SS/POM/SS_SuggestedLink.jpg)
+
+<img src="actiTime/GitImages/README_SS/POM/SS_SuggestedLink.png" alt="SS_SuggestedLink" width="500">
+
 
 4. Extract the zip file.
 
 5. Copy paste all jar file from folders and subfolders into jar folder of eclipse.
 
-![SS_jarFolderpaste](actiTime/GitImages/README_SS/POM/SS_jarFolderpaste.jpg)
+
+<img src="actiTime/GitImages/README_SS/POM/SS_jarFolderpaste.png" alt="SS_jarFolderpaste" width="500">
+
 
 6. Select all .jar files -> Right click -> Go to build path -> Click on add to build path.
 
-![SS_BuildPath](actiTime/GitImages/README_SS/POM/SS_BuildPath.jpg)
+
+<img src="actiTime/GitImages/README_SS/POM/SS_BuildPath.png" alt="SS_BuildPath" width="500">
+
 
 7. Create folder called **`data`** in java project and copy-paste excel sheet.
 
-![SS_DATAExcel](actiTime/GitImages/README_SS/POM/SS_DATAExcel.jpg)
+
+<img src="actiTime/GitImages/README_SS/POM/SS_DATAExcel.png" alt="SS_DATAExcel" width="500">
+
 
 8. Type **USERNAME** and **PASSWORD** in excel sheet and give sheet name as `input`.
 
-![SS_Book1](actiTime/GitImages/README_SS/POM/SS_Book1.jpg)
+
+<img src="actiTime/GitImages/README_SS/POM/SS_Book1.png" alt="SS_Book1" width="500">
+
 
 *************************************************
 ************************************
